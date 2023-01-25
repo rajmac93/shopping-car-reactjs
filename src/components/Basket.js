@@ -66,6 +66,16 @@ export default function Basket(props) {
 							<strong>${totalPrice.toFixed(2)}</strong>
 						</div>
 					</div>
+					<hr />
+					<div className='row'>
+						<button
+							onClick={() => {
+								alert('Checkout in progress...');
+							}}
+						>
+							Checkout
+						</button>
+					</div>
 				</>
 			)}
 		</aside>

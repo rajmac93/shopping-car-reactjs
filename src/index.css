@@ -32,7 +32,8 @@ a {
 
 .row {
 	display: flex;
-	justify-content: space-between;
+	flex-wrap: wrap;
+	justify-content: space-around;
 }
 
 .col-1 {
@@ -54,6 +55,8 @@ a {
 }
 
 img.small {
+	margin: 1.2rem;
+
 	max-height: 8rem;
 }
 
@@ -73,7 +76,7 @@ button.add {
 	width: 1.5rem;
 }
 
-button.remove {
+button.minus {
 	background-color: var(--fifth-color);
 	width: 1.5rem;
 }
