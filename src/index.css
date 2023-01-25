@@ -2,6 +2,8 @@
 	--main-color: #e0e0e0;
 	--second-color: #404040;
 	--third-color: rgb(12, 94, 43);
+	--fourth-color: #40c0f0;
+	--fifth-color: #f04040;
 }
 
 body {
@@ -65,4 +67,24 @@ button {
 	color: var(--main-color);
 	width: 100%;
 	cursor: pointer;
+}
+button.add {
+	background-color: var(--fourth-color);
+	width: 1.5rem;
+}
+
+button.remove {
+	background-color: var(--fifth-color);
+	width: 1.5rem;
+}
+
+button.badge {
+	background-color: var(--fifth-color);
+	border: none;
+	color: var(--main-color);
+	width: 1.5rem;
+}
+
+.text-right {
+	text-align: right;
 }
