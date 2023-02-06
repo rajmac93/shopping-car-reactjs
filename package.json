@@ -1,7 +1,7 @@
 {
+	"homepage": "https://rajmac93.github.io/shopping-cart-reactjs",
 	"name": "shopping-car",
 	"version": "0.1.0",
-	"homepage": "https://rajmac.github.io/shopping-cart-reactjs",
 	"private": true,
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.16.5",
