@@ -24,7 +24,7 @@ const data = {
 		{
 			id: '4',
 			name: 'strawberry',
-			price: 2,
+			price: 7,
 			image:
 				'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.-lbAg24H79iTQCZ1Ev-MVgHaD4%26pid%3DApi&f=1&ipt=7164c00e9375831204256aa1f9e3a2fdde4e2c69f45d1c76f013011883e5995b&ipo=images',
 		},
@@ -38,14 +38,14 @@ const data = {
 		{
 			id: '6',
 			name: 'pineapple',
-			price: 2,
+			price: 3.5,
 			image:
 				'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.explicit.bing.net%2Fth%3Fid%3DOIP.Z3Lnd4NwcR6hzOT_S05zaQHaFQ%26pid%3DApi&f=1&ipt=fafebace088cc64583b714a51768685491f03f7d4dde5b0c1848254391626ae3&ipo=images',
 		},
 		{
 			id: '7',
 			name: 'papaya',
-			price: 2,
+			price: 4,
 			image:
 				'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fwww.findhomeremedy.com%2Fwp-content%2Fuploads%2F2015%2F08%2FPapaya-2.jpg&f=1&nofb=1&ipt=2111705e7d95d10a3b35ccd02e7d845465d588a0babc7def8e4c312cb67694a3&ipo=images',
 		},

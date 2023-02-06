@@ -20,7 +20,6 @@ export default function Header(props) {
 						''
 					)}
 				</a>
-				<a href='#/signin'>SignIn</a>
 			</div>
 		</header>
 	);
